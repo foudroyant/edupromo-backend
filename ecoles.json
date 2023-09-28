@@ -1,0 +1,147 @@
+{
+    "ecoles" : [
+        {"id" : 1, "label" : "Le bon berger", "image" :""},
+        {"id" : 2, "label" : "Thereza", "image" :""},
+        {"id" : 3, "label" : "Remo", "image" :""},
+        {"id" : 4, "label" : "La Methode", "image" :""},
+        {"id" : 5, "label" : "Kimpolo", "image" :""},
+        {"id" : 6, "label" : "La Forge", "image" :""},
+        {"id" : 7, "label" : "Aimée Céleste", "image" :""},
+        {"id" : 8, "label" : "La Graciel", "image" :""},
+        {"id" : 9, "label" : "MARIE De Magdala", "image" :""},
+        {"id" : 10, "label" : "Bravo Kalamu et Masina", "image" :""}
+    ],
+
+    "contenu" : [
+        {
+            "id" : 1,
+            "label" : "Le bon Berger",
+            "image" :"",
+            "description" : "",
+            "localite" : "",
+            "adresse" : "",
+            "contact" : "",
+            "messages" : [
+                {"entete" : "", "contenu" : ""}
+            ],
+            "images" : []
+        },
+        {
+            "id" : 2,
+            "label" : "Le bon Berger",
+            "image" :"",
+            "description" : "",
+            "localite" : "",
+            "adresse" : "",
+            "contact" : "",
+            "messages" : [
+                {"entete" : "", "contenu" : ""}
+            ],
+            "images" : []
+        },
+        {
+            "id" : 3,
+            "label" : "Le bon Berger",
+            "image" :"",
+            "description" : "",
+            "localite" : "",
+            "adresse" : "",
+            "contact" : "",
+            "messages" : [
+                {"entete" : "", "contenu" : ""}
+            ],
+            "images" : []
+        },
+        {
+            "id" : 4,
+            "label" : "Le bon Berger",
+            "image" :"",
+            "description" : "",
+            "localite" : "",
+            "adresse" : "",
+            "contact" : "",
+            "messages" : [
+                {"entete" : "", "contenu" : ""}
+            ],
+            "images" : []
+        },
+        {
+            "id" : 5,
+            "label" : "Le bon Berger",
+            "image" :"",
+            "description" : "",
+            "localite" : "",
+            "adresse" : "",
+            "contact" : "",
+            "messages" : [
+                {"entete" : "", "contenu" : ""}
+            ],
+            "images" : []
+        },
+        {
+            "id" : 6,
+            "label" : "Le bon Berger",
+            "image" :"",
+            "description" : "",
+            "localite" : "",
+            "adresse" : "",
+            "contact" : "",
+            "messages" : [
+                {"entete" : "", "contenu" : ""}
+            ],
+            "images" : []
+        },
+        {
+            "id" : 7,
+            "label" : "Le bon Berger",
+            "image" :"",
+            "description" : "",
+            "localite" : "",
+            "adresse" : "",
+            "contact" : "",
+            "messages" : [
+                {"entete" : "", "contenu" : ""}
+            ],
+            "images" : []
+        },
+        {
+            "id" : 8,
+            "label" : "Le bon Berger",
+            "image" :"",
+            "description" : "",
+            "localite" : "",
+            "adresse" : "",
+            "contact" : "",
+            "messages" : [
+                {"entete" : "", "contenu" : ""}
+            ],
+            "images" : []
+        },
+        {
+            "id" : 9,
+            "label" : "Le bon Berger",
+            "image" :"",
+            "description" : "",
+            "localite" : "",
+            "adresse" : "",
+            "contact" : "",
+            "messages" : [
+                {"entete" : "", "contenu" : ""}
+            ],
+            "images" : []
+        },
+        {
+            "id" : 10,
+            "label" : "Le bon Berger",
+            "image" :"",
+            "description" : "",
+            "localite" : "",
+            "adresse" : "",
+            "contact" : "",
+            "messages" : [
+                {"entete" : "", "contenu" : ""}
+            ],
+            "images" : []
+        },
+    ]
+}
